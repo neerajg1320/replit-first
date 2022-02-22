@@ -1,9 +1,6 @@
-import pandas 
+import pandas as pd
 import calculate
 
 print("Hello World")
 print(calculate.x)
-print("Hi Again")
-
-def dbl(x):
-  return x * 2
+print("Should be in git")
